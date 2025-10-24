@@ -1,0 +1,13 @@
+
+----- SALES REPORT -----
+Total Sales: ₹1,671,000
+Best-Selling Product: Laptop (₹720,000)
+
+Sales by Product:
+Product
+Headphones     66000
+Laptop        720000
+Mobile        560000
+Tablet        325000
+
+-------------------------
