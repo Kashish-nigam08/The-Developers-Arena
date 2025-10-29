@@ -1,1 +1,10 @@
+Hands-On Practice:
+1.Create a program that gives different messages based on time of day
+2.Build a number guessing game using if-else statements
+3.Use for loop to print numbers from 1 to 100
+4.Create a function that calculates area of rectangle
+5.Make a simple calculator that can add, subtract, multiply, divide
+6.Practice with real-life scenarios: grading system, age categories
 
+Project:
+A Simple Student Grade Calculator that takes marks and returns grade (A, B, C, etc.) with encouraging messages for each grade.
