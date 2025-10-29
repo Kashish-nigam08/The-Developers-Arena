@@ -1,1 +1,9 @@
+Hands-On Practice:
+1.Download a simple dataset (like student marks or sales data)
+2.Load the dataset and display first few rows
+3.Check basic information: how many rows, columns, data types
+4.Find and handle missing values in the dataset
+5.Calculate average, highest, lowest values for numerical columns
 
+Project:
+Analyze a Simple Sales Dataset to find: total sales, best-selling product, and create a basic report
