@@ -1,1 +1,10 @@
+Hands-On Practice:
+1.Install Python - follow step-by-step guide for your operating system
+2.Write your first 'Hello World' program and run it
+3.Create variables to store your personal information (name, age, city)
+4.Practice basic math calculations in Python
+5.Create a list of your favorite foods and learn to access them
+6.Build a simple bio-data program that displays your information
 
+Project:
+A Personal Introduction Program that asks for user's name, age, and hobby, then displays a friendly welcome message with their information
